@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "226986504612",
+    "firebase_url": "https://customfcmnotif.firebaseio.com",
+    "project_id": "customfcmnotif",
+    "storage_bucket": "customfcmnotif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226986504612:android:fc3dce49749b6181",
+        "android_client_info": {
+          "package_name": "com.example.root.customfcmnotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226986504612-i8qlvajovbb2fadi2389vlino2in1tnv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.root.customfcmnotif",
+            "certificate_hash": "4c8ce5b59531fdd6c0bd90bdc34953059d305074"
+          }
+        },
+        {
+          "client_id": "226986504612-h5c0657hva9i1uqtibug2eilfb3ckfl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJPpP0oMenNU_nw8gXCrswWrzYBmWdJLQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226986504612-h5c0657hva9i1uqtibug2eilfb3ckfl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
